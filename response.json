@@ -1,0 +1,17 @@
+{
+    "Response":[
+        {
+            "input":["hello","hi","sup","xup","Goodday"],
+            "output":"how are you doing today"
+        },
+        {
+            "input":["how is your day","how is your day going","how are you"],
+            "output":"Doing great"
+        },
+        {
+            "input":["have you eaten","will you eat"],
+            "output":"I am a bot, I do not eat. I feed only on information"
+        }
+ 
+    ]
+}
